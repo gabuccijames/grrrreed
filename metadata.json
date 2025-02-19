@@ -1,6 +1,9 @@
 {
     "name": "Greed",
     "symbol": " Greed",
-    "description": "Blue Horseshoe loves Anacott Steel.",
-    "image": "https://r2.fivemanage.com/0VjDr1sfU5SjjMrkgwPdc/images/QmRF3BNu3VYJJ4QPTVdSg38RA9NKpnmX2k29V7uJVcXrsA.jpg"
+    "description": "Blue Horse shoe loves Anacott Steel.",
+    "image": "https://r2.fivemanage.com/0VjDr1sfU5SjjMrkgwPdc/images/QmRF3BNu3VYJJ4QPTVdSg38RA9NKpnmX2k29V7uJVcXrsA.jpg",
+    "social": {
+        "telegram": "https://t.me/yourchannel"
+    }
 }
